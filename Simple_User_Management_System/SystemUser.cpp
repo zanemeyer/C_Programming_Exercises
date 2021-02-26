@@ -1,4 +1,3 @@
-// Zane Meyer
 #include "SystemUser.hpp"
 
 SystemUser::SystemUser()
