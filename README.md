@@ -4,3 +4,4 @@ Error: initializing source docker://localhost/maestro:latest: pinging container 
  - /etc/containers/registries.conf
 unqualified-search-registries = ["registry.fedoraproject.org", "registry.access.redhat.com", "docker.io", "quay.io"]
 
+unqualified-search-registries = ["docker.io", "quay.io"]
